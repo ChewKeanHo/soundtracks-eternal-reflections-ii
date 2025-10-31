@@ -1,21 +1,31 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Eternal Reflections II | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+On second try, I am looking for some usable and subtle background musics for
+video making.  You know, those that fills the void and does not make sense
+to hire an arist (as in, using their craft will be insulting to them). Let's
+try something more instrumental.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #chillwave #ambient #instrumental #piano
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Eternal-Reflections-II.mp3
+  Size: 5746688         Blocks: 11224      IO Block: 4096   regular file
+Access: 2025-10-31 10:55:00.628767911 +0800
+Modify: 2025-10-31 10:54:12.612570294 +0800
+Change: 2025-10-31 10:56:01.549018389 +0800
+ Birth: 2025-07-20 11:53:29.170212093 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-04-26
+On YouTube since : 2025-04-27
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=XckeHbR9o_4) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +46,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Eternal Reflections II
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-eternal-reflections-ii
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
