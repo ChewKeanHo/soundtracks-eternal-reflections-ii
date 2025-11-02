@@ -17,15 +17,23 @@ Modify: 2025-10-31 10:54:12.612570294 +0800
 Change: 2025-10-31 10:56:01.549018389 +0800
  Birth: 2025-07-20 11:53:29.170212093 +0800
 
-On Published Date: 2025-04-26
+On Published Date: 2025-04-25
 On YouTube since : 2025-04-27
 ```
 
-[YouTube](https://www.youtube.com/watch?v=XckeHbR9o_4) |
-[Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
-[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
-[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+[YouTube](https://www.youtube.com/watch?v=XckeHbR9o_4)
+
+* [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
+* [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
+* [Agreed Inkscape License](.internals/terms-of-services/Inkscape_License.pdf)
+* [Agreed Inkscape Privacy Policy](.internals/privacy-policy/Inkscape-Privacy-Policy.pdf)
+* [Agreed (Holloway) Chew, Kean Ho's Upscaler License](.internals/terms-of-services/Upscaler_LICENSE.txt)
+* [Agreed Perchance.org Terms of Service](.internals/terms-of-services/PerchanceORG_Terms-of-Service.pdf)
+* [Agreed Perchance.org Privacy Policy](.internals/privacy-policy/PerchanceORG-Privacy-Policy.pdf)
+* [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
+* [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
+* [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
