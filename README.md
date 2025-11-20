@@ -10,11 +10,11 @@ try something more instrumental.
 ```
 #electronicmusic #chillwave #ambient #instrumental #piano
 
-  File: Eternal-Reflections-II.mp3
+  File: Audios/02_Eternal-Reflections-II.mp3
   Size: 5746688         Blocks: 11224      IO Block: 4096   regular file
-Access: 2025-10-31 10:55:00.628767911 +0800
-Modify: 2025-10-31 10:54:12.612570294 +0800
-Change: 2025-10-31 10:56:01.549018389 +0800
+Access: 2025-11-20 07:56:13.420748977 +0800
+Modify: 2025-11-02 18:11:17.993340719 +0800
+Change: 2025-11-20 07:56:23.896791758 +0800
  Birth: 2025-07-20 11:53:29.170212093 +0800
 
 On Published Date: 2025-04-25
@@ -34,6 +34,7 @@ On YouTube since : 2025-04-27
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +55,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Eternal Reflections II
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-eternal-reflections-ii
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Eternal Reflections II
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-eternal-reflections-ii
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-eternal-reflections-ii
 --------------------------------------------------------------------------------
 ```
 
